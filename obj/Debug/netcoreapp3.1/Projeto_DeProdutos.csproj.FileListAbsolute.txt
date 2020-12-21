@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\bin\Debug\netcoreapp3.1\Projeto_DeProdutos.exe
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\bin\Debug\netcoreapp3.1\Projeto_DeProdutos.deps.json
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\bin\Debug\netcoreapp3.1\Projeto_DeProdutos.runtimeconfig.json
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\bin\Debug\netcoreapp3.1\Projeto_DeProdutos.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\bin\Debug\netcoreapp3.1\Projeto_DeProdutos.dll
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\bin\Debug\netcoreapp3.1\Projeto_DeProdutos.pdb
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\obj\Debug\netcoreapp3.1\Projeto_DeProdutos.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\obj\Debug\netcoreapp3.1\Projeto_DeProdutos.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\obj\Debug\netcoreapp3.1\Projeto_DeProdutos.AssemblyInfo.cs
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\obj\Debug\netcoreapp3.1\Projeto_DeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\obj\Debug\netcoreapp3.1\Projeto_DeProdutos.dll
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\obj\Debug\netcoreapp3.1\Projeto_DeProdutos.pdb
+C:\Users\dev\Desktop\Aula_ProjetoDeProdutos\Projeto_DeProdutos\obj\Debug\netcoreapp3.1\Projeto_DeProdutos.genruntimeconfig.cache
